@@ -54,3 +54,17 @@ header{
     max-width: 400px;
     margin: 0 1rem;
 }
+
+.terceira{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 4rem;
+}
+
+.terceira img{
+    width: 23rem;
+    height: auto;
+    margin: 0.5rem;
+}
